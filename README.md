@@ -37,7 +37,7 @@ This repository provides a glimpse into my growth and achievements as a Data Ana
 ## Select Projects
 
 ### Project Name: Hotel Average Daily Rate Prediction
-**Code:** [`Hotel Average Daily Rate Prediction.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/23e199170416f615decc4320a69259a539370afa/Python%20Codes%20and%20Projects/Hotel%20Average%20Daily%20Rate%20Prediction.ipynb)    
+**Code:** [`Hotel Average Daily Rate Prediction.ipynb`](https://github.com/gsmitaa/Python-Codes-and-Projects/blob/4f38d63cd1ef135167520945425367a27e67b332/Python%20Codes%20and%20Projects/Hotel%20Average%20Daily%20Rate%20Prediction.ipynb)    
 **Descriptive Analysis & Visualization:**  [Click here to go to Tableau Public](https://public.tableau.com/views/AnalysisofHotelPerformanceandCustomerBehavior/Dashboard7?:language=en-US&:display_count=n&:origin=viz_share_link)                              
 **Details:** The data article comprises two datasets containing hotel demand data, specifically for a resort hotel (H1) and a city hotel (H2), both sharing a common structure with 31 variables, detailing 40,060 observations for H1 and 79,330 observations for H2.             
 **Skills:** Data Cleaning and Preprocessing, Descriptive Analysis, Visualization, Linear Regression Model, Decision Trees Model, Neural Networks Model.                         
@@ -56,7 +56,7 @@ This repository provides a glimpse into my growth and achievements as a Data Ana
 
 
 ### Project Name: London Neighborhood Analysis
-**Code:** [`London Neighborhood Analysis.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/London%20Neighborhood%20Analysis.ipynb)                
+**Code:** [`London Neighborhood Analysis.ipynb`](https://github.com/gsmitaa/Python-Codes-and-Projects/blob/4f38d63cd1ef135167520945425367a27e67b332/Python%20Codes%20and%20Projects/London%20Neighborhood%20Analysis.ipynb)                
 **Description:** The dataset involves housing trends in London, encompassing monthly variables for 33 boroughs and additional areas, covering aspects such as average housing prices, houses sold, and crime rates, with a total of 13,549 entries and 7 columns, including information on date, area, average price, houses sold, number of crimes, and a borough flag indicating London boroughs (1) or areas outside London (0).       
 **Skills:** Data Cleaning, Descriptive Analysis, Grouping and Aggregation, Visualization, Time Series Analysis, Statistical Measures, Plotting Relationships, Correlation Analysis.       
 **Technology:** Python Programming, Pandas, Matplotlib, Seaborn.         
@@ -65,7 +65,7 @@ This repository provides a glimpse into my growth and achievements as a Data Ana
 
 
 ### Project Name: Medical Resources Optimization Model
-**Code:** [`Medical Resources Optimization Model.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/6ca47577df049ea659891f8e84bb9e032c2a8da9/Python%20Codes%20and%20Projects/Medical%20Resources%20Optimization%20Model.ipynb)      
+**Code:** [`Medical Resources Optimization Model.ipynb`](https://github.com/gsmitaa/Python-Codes-and-Projects/blob/4f38d63cd1ef135167520945425367a27e67b332/Python%20Codes%20and%20Projects/Medical%20Resources%20Optimization%20Model.ipynb)      
 **Description:** The dataset was acquired from the GitHub repository associated with the Medical Resource Optimization Program (MRO) collaboration between the Cleveland Clinic and SAS Institute. The input data consists of seven tables, each contributing specific information to the hierarchical definition within the model. These tables cover aspects such as resource capacity, utilization, service attributes, financials, historical demand, and forecasted demand.   
 **Skills:** Data Cleaning and Transformation, Triangle Distribution for Demand Forecasting, Decision Variables and Constraints, Optimization Model, Optimization Solver.  
 **Technology:** Python Programming, Pandas, SciPy, PuLP, Matplotlib, NumPy.   
@@ -74,7 +74,7 @@ This repository provides a glimpse into my growth and achievements as a Data Ana
 
 
 ### Project Name: Nepali Vegetable Market Analysis
-**Code:** [`Nepal Vegetable Market.ipynb`](https://github.com/gsmitaa/gsmitaa/blob/8608a8c8dcb5d89f90872caa86bcae58fcd1669d/Python%20Codes%20and%20Projects/Nepali%20Vegetable%20Market%20Analysis.ipynb)   
+**Code:** [`Nepal Vegetable Market.ipynb`](https://github.com/gsmitaa/Python-Codes-and-Projects/blob/4f38d63cd1ef135167520945425367a27e67b332/Python%20Codes%20and%20Projects/Nepali%20Vegetable%20Market%20Analysis.ipynb)   
 **Description:** The dataset comprises Nepali vegetable market information, including commodity details, date, unit, and price statistics, from June 16, 2013, to May 13, 2021, with 197,161 entries.     
 **Skills:** Descriptive Statistics, Data Cleaning, Visualization, Time Series Analysis, Pivot Table Analysis.    
 **Technology:** Python Programming, Pandas, Matplotlib, statsmodels, Seaborn.      
