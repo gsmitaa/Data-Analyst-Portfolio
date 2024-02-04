@@ -5,10 +5,33 @@
 Hello!
 My name is Smita Gautam. I hold a Master's degree in Business Analytics and a Bachelor's in Finance with a minor in IT. I have 3 years of experience of working as a Data Analyst in the Finance Industry.
 
+## Technical Competencies
+**Programming:**  SQL (Querying, Tables, Constraints, Indexes, Views, Joins, Stored Procedures, Triggers), 
+                 Python (Libraries: NumPy, Pandas, TensorFlow, Keras, Matplotlib, Seaborn, scikit-learn, StatsModels, NLTK).     
+**Data Analysis:** Excel (Pivot Table, Solver, Power Query, INDEX MATCH, VLOOKUP, Data Analysis ToolPak, Time Series Analysis, Forecasting), 
+                   SPSS Statistics (Descriptives, Regression, Analysis of Variance, Correlation, Chi Square, T-tests).
+**Machine Learning & Predictive Modeling:** Linear Regression, Random Forest, Decision Trees, Logistic Regression, Neural Networks, K-means Clustering, Natural Language Processing.
+**Databases**: MS SQL Server, MS Access.
+**Visualization & Reporting:** Tableau, Power BI, PowerPoint, Excel.
+
+
 
 This repository features a curated selection of my academic, personal, and professional projects, providing a focused glimpse into my growth and achievements as a Data Analyst.
 
 <br>
+
+## Coursework Completed
+    Database Management Systems: SQL
+    Database Planning & Management: SQL, Access.
+    Data Visualization: Tableau, Power BI
+    Analytics Decision Modeling with Spreadsheets: Excel
+    Introduction to Data Mining & Machine Learning: Python
+    Enterprise Resource Planning: SAP S/4 HANA
+    Quantitative Analysis of Business Conditions and Forecasting: Python
+    Business Decision Making and Analysis: SPSS
+    Advanced Investment Analysis and Portfolio Management: Excel
+
+## Select Projects
 
 ### Project Name: Hotel Average Daily Rate Prediction
 **Code:** [`Hotel Average Daily Rate Prediction.ipynb`](https://github.com/gsmitaa/Data-Analyst-Portfolio/blob/23e199170416f615decc4320a69259a539370afa/Python%20Codes%20and%20Projects/Hotel%20Average%20Daily%20Rate%20Prediction.ipynb)    
