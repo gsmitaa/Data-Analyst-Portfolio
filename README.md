@@ -21,15 +21,15 @@ This repository features a curated selection of my academic, personal, and profe
 <br>
 
 ## Coursework Completed
-    * Database Management Systems: SQL
-    Database Planning & Management: SQL, Access.
-    Data Visualization: Tableau, Power BI
-    Analytics Decision Modeling with Spreadsheets: Excel
-    Introduction to Data Mining & Machine Learning: Python
-    Enterprise Resource Planning: SAP S/4 HANA
-    Quantitative Analysis of Business Conditions and Forecasting: Python
-    Business Decision Making and Analysis: SPSS
-    Advanced Investment Analysis and Portfolio Management: Excel
+* Database Management Systems: SQL, MS SQL Server
+* Database Planning & Management: SQL, MS SQL Server, MS Access.
+* Data Visualization: Tableau, Power BI
+* Analytics Decision Modeling with Spreadsheets: Excel
+* Introduction to Data Mining & Machine Learning: Python
+* Enterprise Resource Planning: SAP S/4 HANA
+* Quantitative Analysis of Business Conditions and Forecasting: Python
+* Business Decision Making and Analysis: SPSS
+* Advanced Investment Analysis and Portfolio Management: Excel
 
 ## Select Projects
 
