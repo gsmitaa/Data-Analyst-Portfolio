@@ -9,10 +9,10 @@ My name is Smita Gautam. I hold a Master's degree in Business Analytics and a Ba
 **Programming:**  SQL (Querying, Tables, Constraints, Indexes, Views, Joins, Stored Procedures, Triggers), 
                  Python (Libraries: NumPy, Pandas, TensorFlow, Keras, Matplotlib, Seaborn, scikit-learn, StatsModels, NLTK).     
 **Data Analysis:** Excel (Pivot Table, Solver, Power Query, INDEX MATCH, VLOOKUP, Data Analysis ToolPak, Time Series Analysis, Forecasting), 
-                   SPSS Statistics (Descriptives, Regression, Analysis of Variance, Correlation, Chi Square, T-tests).
-**Machine Learning & Predictive Modeling:** Linear Regression, Random Forest, Decision Trees, Logistic Regression, Neural Networks, K-means Clustering, Natural Language Processing.
-**Databases**: MS SQL Server, MS Access.
-**Visualization & Reporting:** Tableau, Power BI, PowerPoint, Excel.
+                   SPSS Statistics (Descriptives, Regression, Analysis of Variance, Correlation, Chi Square, T-tests).     
+**Machine Learning & Predictive Modeling:** Linear Regression, Random Forest, Decision Trees, Logistic Regression, Neural Networks, K-means Clustering, Natural Language Processing.    
+**Databases**: MS SQL Server, MS Access.   
+**Visualization & Reporting:** Tableau, Power BI, PowerPoint, Excel.   
 
 
 
@@ -21,7 +21,7 @@ This repository features a curated selection of my academic, personal, and profe
 <br>
 
 ## Coursework Completed
-    Database Management Systems: SQL
+    * Database Management Systems: SQL
     Database Planning & Management: SQL, Access.
     Data Visualization: Tableau, Power BI
     Analytics Decision Modeling with Spreadsheets: Excel
