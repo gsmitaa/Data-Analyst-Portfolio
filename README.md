@@ -11,7 +11,7 @@ This repository provides a glimpse into my growth and achievements as a Data Ana
 ## Technical Competencies
 **Programming:**  SQL (Querying, Tables, Constraints, Indexes, Views, Joins, Stored Procedures, Triggers), 
                  Python (Libraries: NumPy, Pandas, TensorFlow, Keras, Matplotlib, Seaborn, scikit-learn, StatsModels, NLTK),
-                 R (Basics).
+                 R (dplyr, ggplot2).
 **Data Analysis:** Excel (Pivot Table, Solver, Power Query, INDEX MATCH, VLOOKUP, Data Analysis ToolPak, Time Series Analysis, Forecasting), 
                    SPSS Statistics (Descriptives, Regression, Analysis of Variance, Correlation, Chi Square, T-tests).     
 **Machine Learning & Predictive Modeling:** Linear Regression, Random Forest, Decision Trees, Logistic Regression, Neural Networks, K-means Clustering, Natural Language Processing.    
