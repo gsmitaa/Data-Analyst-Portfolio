@@ -65,14 +65,6 @@ This repository provides a glimpse into my growth and achievements as a Data Ana
 
 
 
-### Project Name: Medical Resources Optimization Model
-**Code:** [`Medical Resources Optimization Model.ipynb`](https://github.com/gsmitaa/Python-Codes-and-Projects/blob/4f38d63cd1ef135167520945425367a27e67b332/Python%20Codes%20and%20Projects/Medical%20Resources%20Optimization%20Model.ipynb)      
-**Description:** The dataset was acquired from the GitHub repository associated with the Medical Resource Optimization Program (MRO) collaboration between the Cleveland Clinic and SAS Institute. The input data consists of seven tables, each contributing specific information to the hierarchical definition within the model. These tables cover aspects such as resource capacity, utilization, service attributes, financials, historical demand, and forecasted demand.   
-**Skills:** Data Cleaning and Transformation, Triangle Distribution for Demand Forecasting, Decision Variables and Constraints, Optimization Model, Optimization Solver.  
-**Technology:** Python Programming, Pandas, SciPy, PuLP, Matplotlib, NumPy.   
-**Goal and Results:** The project aims to optimize the daily offering of medical sub-services by maximizing profit, ensuring resource utilization is within available limits, and meeting demand. 
-
-
 
 ### Project Name: Nepali Vegetable Market Analysis
 **Code:** [`Nepal Vegetable Market.ipynb`](https://github.com/gsmitaa/Python-Codes-and-Projects/blob/4f38d63cd1ef135167520945425367a27e67b332/Python%20Codes%20and%20Projects/Nepali%20Vegetable%20Market%20Analysis.ipynb)   
